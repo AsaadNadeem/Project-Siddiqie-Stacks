@@ -1,0 +1,234 @@
+/* Slide 16:9 - 1 */
+
+/* position: relative; */
+body {
+    width: 100.00%;
+    height: 100.00%;
+
+    background: #B9E2EE;
+}
+
+
+/* Rectangle 2 */
+.loginBigBox {
+    position: absolute;
+    width: 38.28%;
+    height: 51.76%;
+    left: 31.67%;
+    top: 27.41%;
+
+    background: #686A8E;
+    border-radius: 15.00px;
+}
+
+/* Password: */
+.passText {
+    position: absolute;
+    width: 18.23%;
+    height: 5.93%;
+    left: 35.94%;
+    top: 56.67%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.05ch;
+    line-height: 5.83%;
+
+    color: #FFFFFF;
+}
+
+
+/* Username: */
+.userText {
+    position: absolute;
+    width: 16.35%;
+    height: 4.91%;
+    left: 35.94%;
+    top: 35.65%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.05ch;
+    line-height: 5.83%;
+
+    color: #FFFFFF;
+}
+
+
+/* Rectangle 5 */
+.passBox {
+    position: absolute;
+    width: 29.69%;
+    height: 7.13%;
+    left: 35.94%;
+    top: 66.02%;
+
+    background: #D9D9D9;
+    border-radius: 0.00%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.05ch;
+    line-height: 5.83%;
+
+    color: #000000;
+}
+
+/* Rounded rectangle */
+.userBox {
+    position: absolute;
+    width: 29.69%;
+    height: 7.13%;
+    left: 35.94%;
+    top: 46.02%;
+
+    background: #D9D9D9;
+    border-radius: 0.00%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.05ch;
+    line-height: 5.83%;
+
+    color: #000000;
+}
+
+/* Rectangle 3 */
+.loginBox {
+    position: absolute;
+    width: 12.55%;
+    height: 7.22%;
+    left: 43.75%;
+    top: 82.96%;
+
+    background: #0C4110;
+    border-radius: 12.00px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.05ch;
+    line-height: 5.83%;
+
+    color: #000000;
+}
+
+/* Login */
+.loginText {
+    position: absolute;
+    width: 8.54%;
+    height: 5.74%;
+    left: 46.51%;
+    top: 82.96%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.05%;
+    line-height: 5.83%;
+
+    color: #000000;
+}
+
+
+/* Rectangle 20 */
+.headerBox {
+    position: absolute;
+    width: 100.00%;
+    height: 19.35%;
+    left: 0.00%;
+    top: 0.00%;
+
+    background: #000000;
+    opacity: 0.26;
+}
+
+/* file_00000000efa07206ab6dfd2c37f967b4 3 */
+.logo {
+    position: absolute;
+    width: 27.71%;
+    height: 32.87%;
+    left: -1.77%;
+    top: -4.35%;
+
+    /* background: url(file_00000000efa07206ab6dfd2c37f967b4.png); */
+}
+
+/* Rectangle 21 */
+.nameBox {
+    position: absolute;
+    width: 32.66%;
+    height: 10.17%;
+    left: 34.48%;
+    top: 5.37%;
+
+    background: #E3518B;
+    border-radius: 17.00pc;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7.83ch;
+    line-height: 0.9;
+    align-self: auto;
+    text-align: center;
+
+    color: #094868;
+}
+
+/* Siddiqie Stacks */
+.nameText {
+    position: absolute;
+    width: 27.49%;
+    height: 5.46%;
+    left: 38.13%;
+    top: 5.37%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7.83%;
+    line-height: 8.98%;
+
+    color: #094868;
+}
+
+
+/* Enter Your */
+.leftText {
+    position: absolute;
+    width: 19.58%;
+    height: 7.41%;
+    left: 4.11%;
+    top: 46.30%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7.83cqh;
+    line-height: 8.98%;
+
+    color: #000000;
+}
+
+
+/* Login Info */
+.rightText {
+    position: absolute;
+    width: 19.06%;
+    height: 7.41%;
+    left: 75.05%;
+    top: 46.57%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7.83cqh;
+    line-height: 8.98%;
+
+    color: #000000;
+}

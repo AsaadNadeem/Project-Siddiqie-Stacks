@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+<body>
+    <div class="headerBox"></div>
+    <div class="loginBigBox"></div>
+    <p class="userText">Username :</p>
+    <p class="passText">Password :</p>
+    <p class="leftText">Enter Your</p>
+    <p class="rightText">Login Info</p>
+    <div class="nameBox">Siddiqie Stacks</div>
+    <img src="file_00000000efa07206ab6dfd2c37f967b4.png" class="logo">
+    <form action="loginResult" method="post">
+        <input type="text" name="username" class="userBox" required pattern="\S+" title="Spaces not allowed">
+        <input type="password" name="password" class="passBox" required pattern="\S+" title="Spaces not allowed">
+        <button type="submit" class="loginBox">Login</button>
+    </form>
+</body>
+</html>

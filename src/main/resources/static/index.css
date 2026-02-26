@@ -1,0 +1,272 @@
+/* Desktop - 1 */
+body {
+    position: absolute;
+    width: 100.00%;
+    height: 100.00%;
+
+    background: rgba(246, 200, 13, 0.31);
+}
+
+/* Rectangle 12 */
+.firstRec {
+    position: absolute;
+    width: 100.00%;
+    height: 29.88%;
+    left: 0.00%;
+    top: 0.00%;
+
+    background: #461818;
+    opacity: 0.34;
+}
+
+/* Rectangle 14 */
+.lastRec {
+    position: absolute;
+    width: 100.00%;
+    height: 29.88%;
+    left: 0.00%;
+    top: 59.76%;
+
+    background: #B71E96;
+    opacity: 0.34;
+}
+
+
+/* Text on a path */
+.midRec {
+    position: absolute;
+    width: 100.00%;
+    height: 29.88%;
+    left: 0.00%;
+    top: 29.88%;
+
+    background: #2210C4;
+    opacity: 0.34;
+}
+
+/* Rectangle 15 */
+.getStartedButton {
+    position: absolute;
+    width: 24.60%;
+    height: 11.16%;
+    left: 37.65%;
+    top: 83.19%;
+    
+
+    background: #100909;
+    border-radius: 12.00px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8.06ch;
+    line-height: 9.25%;
+
+    color: #FFFFFF;
+}
+
+
+/* file_00000000efa07206ab6dfd2c37f967b4 2 */
+.logo {
+    position: absolute;
+    width: 43.34%;
+    height: 46.94%;
+    left: 59.06%;
+    top: 0.00%;
+
+    /* background: url(file_00000000efa07206ab6dfd2c37f967b4.png); */
+    /* mix-blend-mode: darken; */
+}
+
+
+/* Welcome to */
+.welcomeText {
+    position: absolute;
+    width: 48.33%;
+    height: 14.43%;
+    left: 0.86%;
+    top: -2.19%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13.74ch;
+    line-height: 15.79%;
+
+    color: #F40808;
+}
+
+
+
+/* Rectangle 16 */
+.titleBox {
+    position: absolute;
+    width: 37.91%;
+    height: 13.41%;
+    left: 26.06%;
+    top: 26.06%;
+
+    background: #C91A1D;
+    border-radius: 20.00px;
+}
+
+/* Siddiqie Stacks */
+.titleText {
+    position: absolute;
+    width: 33.64%;
+    height: 7.98%;
+    left: 28.20%;
+    top: 24.59%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8.67ch;
+    line-height: 9.93%;
+
+    color: #FFFFFF;
+}
+
+
+/* Your All in One Platform for : */
+.discPlat {
+    position: absolute;
+    width: 54.83%;
+    height: 6.35%;
+    left: 0.78%;
+    top: 38.68%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7.37ch;
+    line-height: 8.49%;
+
+    color: #000000;
+}
+
+
+/* Rectangle 17 */
+.discBox1 {
+    position: absolute;
+    width: 20.31%;
+    height: 10.02%;
+    left: 6.89%;
+    top: 54.92%;
+
+    background: #2A1162;
+    border-radius: 17.00px;
+}
+
+/* Rectangle 19 */
+.discBox2 {
+    position: absolute;
+    width: 20.31%;
+    height: 10.02%;
+    left: 36.34%;
+    top: 54.92%;
+
+    background: #2A1162;
+    border-radius: 17px;
+}
+
+/* Rectangle 18 */
+.discBox3 {
+    position: absolute;
+    width: 20.31%;
+    height: 10.02%;
+    left: 67.78%;
+    top: 54.92%;
+
+    background: #2A1162;
+    border-radius: 17px;
+}
+
+/* Messages */
+.discText1 {
+    position: absolute;
+    width: 18.43%;
+    height: 7.22%;
+    left: 8.41%;
+    top: 52.92%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7.37ch;
+    line-height: 8.49%;
+
+    color: #EE0F0F;
+}
+
+
+/* Posts */
+.discText2 {
+    position: absolute;
+    width: 10.18%;
+    height: 7.22%;
+    left: 72.85%;
+    top: 52.92%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7.37ch;
+    line-height: 8.49%;
+
+    color: #EE0F0F;
+}
+
+
+/* Articles */
+.discText3 {
+    position: absolute;
+    width: 15.30%;
+    height: 7.22%;
+    left: 39.63%;
+    top: 52.92%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7.37ch;
+    line-height: 8.49%;
+
+    color: #EE0F0F;
+}
+
+
+/* & Many More */
+.lastText {
+    position: absolute;
+    width: 34.73%;
+    height: 8.83%;
+    left: 32.64%;
+    top: 62.38%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9.70ch;
+    line-height: 11.12%;
+
+    color: #000000;
+}
+
+
+/* Get Started */
+.getText {
+    position: absolute;
+    width: 22.77%;
+    height: 4.30%;
+    left: 38.59%;
+    top: 78.19%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8.06ch;
+    line-height: 9.25%;
+
+    color: #FFFFFF;
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign-Up</title>
+    <link rel="stylesheet" href="signUp.css">
+</head>
+<body>
+    <h1>Sign-Up Form</h1>
+    <div class="bigBox"></div>
+    <div class="headerBox"></div>
+    <div class="titleBox">Siddiqie Stacks</div>
+    <p class="txtText">First Name :</p>
+    <p class="txtText1">Last Name :</p>
+    <p class="txtText2">Username :</p>
+    <p class="txtText3">New Password :</p>
+    <p class="txtText4">Confirm Password :</p>
+    <form action="signUpResult" method="post">
+        <input type="text" name="firstName" class="inpBox1" required pattern="\S+" title="Spaces not allowed">
+        <input type="text" name="lastName" class="inpBox2" required pattern="\S+" title="Spaces not allowed">
+        <input type="text" name="username" class="inpBox3" required pattern="\S+" title="Spaces not allowed">
+        <input type="password" name="password1" class="inpBox4" required pattern="\S+" title="Spaces not allowed">
+        <input type="password" name="password2" class="inpBox5" required pattern="\S+" title="Spaces not allowed">
+        <br><button type="submit" class="signUpBox">Sign-Up</button>
+    </form>
+    <img src="file_00000000efa07206ab6dfd2c37f967b4.png" class="logo">
+</body>
+</html>

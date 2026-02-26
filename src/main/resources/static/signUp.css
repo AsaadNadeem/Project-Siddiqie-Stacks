@@ -1,0 +1,242 @@
+/* Slide 16:9 - 2 */
+body {
+    /* position: relative; */
+    width: 100.00%;
+    height: 100.00%;
+
+    background: #FFFFFF;
+}
+
+
+/* Rectangle 22 */
+.headerBox {
+    position: absolute;
+    width: 100%;
+    height: 15.56%;
+    left: 0;
+    top: 0;
+
+    background: #b67575;
+
+    line-height: 15.56vh;
+    justify-content: center;   /* horizontal center */
+    align-items: center;       /* vertical center */
+    text-align: center;
+
+    font-size: 5ch;
+    color: #e90c0c;
+}
+
+/* Rectangle 23 */
+.bigBox {
+    position: absolute;
+    width: 37.81%;
+    height: 66.11%;
+    left: 31.09%;
+    top: 18.52%;
+
+    background: #40AEC2;
+    border-radius: 12px;
+}
+
+/* Rectangle 24 */
+.signUpBox {
+    position: absolute;
+    width: 14.22%;
+    height: 7.78%;
+    left: 42.92%;
+    top: 86.94%;
+
+    background: #8E4F50;
+    border-radius: 8px;
+
+    font-size: 5ch;
+    text-align: center;
+}
+
+/* Rectangle 25 */
+.inpBox1 {
+    position: absolute;
+    width: 31.30%;
+    height: 6.02%;
+    left: 34.38%;
+    top: 25.93%;
+
+    background: #D9D9D9;
+    border-radius: 15px;
+    font-size: 5.18cqmin;
+}
+
+/* Rectangle 26 */
+.inpBox2 {
+    position: absolute;
+    width: 31.30%;
+    height: 6.02%;
+    left: 34.38%;
+    top: 37.56%;
+
+    background: #D9D9D9;
+    border-radius: 15px;
+    font-size: 5.18cqmin;
+}
+
+/* Rectangle 27 */
+.inpBox3 {
+    position: absolute;
+    width: 31.30%;
+    height: 6.02%;
+    left: 34.38%;
+    top: 49.50%;
+
+    background: #D9D9D9;
+    border-radius: 15px;
+    font-size: 5.18cqmin;
+}
+
+/* Rectangle 28 */
+.inpBox4 {
+    position: absolute;
+    width: 31.30%;
+    height: 6.02%;
+    left: 34.38%;
+    top: 62.41%;
+
+    background: #D9D9D9;
+    border-radius: 15px;
+    font-size: 5.18cqmin;
+}
+
+/* Rectangle 29 */
+.inpBox5 {
+    position: absolute;
+    width: 31.30%;
+    height: 6.02%;
+    left: 34.38%;
+    top: 74.81%;
+
+    background: #D9D9D9;
+    border-radius: 15px;
+    font-size: 5.18cqmin;
+}
+
+/* f */
+.txtText {
+    position: absolute;
+    width: 13.33%;
+    height: 4.54%;
+    left: 34.53%;
+    top: 18.37%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.18cqmin;
+    line-height: 5.93%;
+
+    color: #000000;
+}
+
+
+
+/* f */
+.txtText1 {
+    position: absolute;
+    width: 13.33%;
+    height: 4.54%;
+    left: 34.38%;
+    top: 29.94%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.18cqmin;
+    line-height: 5.93%;
+
+    color: #000000;
+}
+
+
+
+/* f */
+.txtText2 {
+    position: absolute;
+    /* width: 13.33%;
+    height: 4.54%; */
+    left: 34.38%;
+    top: 41.98%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.18cqmin;
+    line-height: 5.93%;
+
+    color: #000000;
+}
+
+
+
+/* f */
+.txtText3 {
+    position: absolute;
+    /* width: 13.33%;
+    height: 4.54%; */
+    left: 34.38%;
+    top: 54.85%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.18cqmin;
+    line-height: 5.93%;
+
+    color: #000000;
+}
+
+
+
+/* f */
+
+.txtText4 {
+    position: absolute;
+    /* width: 13.33%;
+    height: 4.54%; */
+    left: 34.38%;
+    top: 67.26%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5.18cqmin;
+    line-height: 5.93%;
+
+    color: #000000;
+}
+
+
+
+/* Rectangle 30 */
+.titleBox {
+    position: absolute;
+    width: 32.86%;
+    height: 7.04%;
+    left: 33.59%;
+    top: 3.98%;
+
+    background: #afbb40;
+
+    font-size: 5ch;
+    text-align: center;
+    border-radius: 13px;
+}
+
+/* file_00000000efa07206ab6dfd2c37f967b4 4 */
+.logo {
+    position: absolute;
+    width: 22.50%;
+    height: 26.67%;
+    left: 1.25%;
+    top: -3.98%;
+
+    /* background: url(file_00000000efa07206ab6dfd2c37f967b4.png); */
+}

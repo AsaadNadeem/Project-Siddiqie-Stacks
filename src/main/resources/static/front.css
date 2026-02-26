@@ -1,0 +1,201 @@
+body {
+    background: yellowgreen;
+}
+
+.header {
+    position: absolute;
+    width: 100%;
+    height: 55.32%;
+    left: 0px;
+    top: 0px;
+
+    background: #000000;
+}
+
+.signUpButton {
+    position: absolute;
+    width: 16.319%;
+    height: 9.3106%;
+    left: 10.358796%;
+    top: 79.946%;
+
+    background: #241ED8;
+    border-radius: 490px;
+}
+
+.topHeading {
+    position: absolute;
+    width: 27.20%;
+    height: 8.77%;
+    left: 40.17%;
+    top: 22.77%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7.27ch;
+    line-height: 8.77%;
+
+    color: #FFFFFF;
+}
+
+.name {
+    position: absolute;
+    width: 43.07%;
+    height: 8.95%;
+    left: 35.47%;
+    top: 32.33%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9.21ch;
+    line-height: 11.10%;
+
+    color: #E5EB24;
+}
+
+.titleBox {
+    position: absolute;
+    width: 49.13%;
+    height: 15.76%;
+    left: 26.68%;
+    top: 0.00%;
+
+    background: #3B9742;
+    border-radius: 150px;
+}
+
+.title {
+    position: absolute;
+    width: 59.49%;
+    height: 10.21%;
+    left: 33.15%;
+    top: -3.78%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9.21ch;
+    line-height: 11.10%;
+
+    color: #FFFFFF;
+}
+
+.loginButton {
+    position: absolute;
+    width: 16.32%;
+    height: 9.31%;
+    left: 73.32%;
+    top: 79.95%;
+
+    background: #241ED8;
+    border-radius: 490px;
+}
+
+.signUpQ {
+    position: absolute;
+    width: 29.58%;
+    height: 3.22%;
+    left: 7.07%;
+    top: 71.86%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3.87ch;
+    line-height: 4.66%;
+
+    color: #EE0F0F;
+}
+
+.loginQ {
+    position: absolute;
+    width: 30.67%;
+    height: 4.66%;
+    left: 69.94%;
+    top: 71.86%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3.87ch;
+    line-height: 4.66%;
+
+    color: #EE0F0F;
+}
+
+.signUpText {
+    position: absolute;
+    width: 11.98%;
+    height: 5.01%;
+    left: 14.06%;
+    top: 79.20%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4.71ch;
+    line-height: 5.73%;
+
+    color: #FFFFFF;
+}
+
+.loginText {
+    position: absolute;
+    width: 8.16%;
+    height: 5.01%;
+    left: 78.57%;
+    top: 79.05%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4.71ch;
+    line-height: 5.73%;
+
+    color: #FFFFFF;
+}
+
+.welcomeBox {
+    position: absolute;
+    width: 26.33%;
+    height: 13.43%;
+    left: 36.81%;
+    top: 58.10%;
+
+    background: #A30404;
+    border-radius: 40px;
+}
+
+.welcomeText {
+    position: absolute;
+    width: 24.97%;
+    height: 7.88%;
+    left: 41.19%;
+    top: 54.53%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8.30ch;
+    line-height: 10.03%;
+
+    color: #FFFFFF;
+}
+
+.logo {
+    position: absolute;
+    width: 44.62%;
+    height: 46.02%;
+    left: -5.15%;
+    top: 7.88%;
+}
+
+.pic {
+    position: absolute;
+    width: 25.58%;
+    height: 39.57%;
+    left: 71.59%;
+    top: 15.76%;
+}

@@ -1,0 +1,90 @@
+/* Slide 16:9 - 3 */
+
+body {
+    width: 100.00%;
+    height: 100.00%;
+
+    background: #C55858;
+}
+
+/* Rectangle 31 */
+.header {
+    position: absolute;
+    width: 100.00%;
+    height: 18.61%;
+    left: 0.00%;
+    top: 0.00%;
+
+    background: #816E6E;
+}
+
+/* file_00000000efa07206ab6dfd2c37f967b4 5 */
+.logo {
+    position: absolute;
+    width: 30.42%;
+    height: 36.02%;
+    left: -0.83%;
+    top: -6.11%;
+
+    /* background: url(file_00000000efa07206ab6dfd2c37f967b4.png); */
+}
+
+/* Rectangle 33 */
+.titleBox {
+    position: absolute;
+    width: 23.91%;
+    height: 9.07%;
+    left: 38.07%;
+    top: 4.81%;
+
+    background: #FDF400;
+    border-radius: 12.00px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4.99ch;
+    text-align: center;
+
+    color: #d81010;
+}
+
+/* Rectangle 34 */
+.bigBox {
+    position: absolute;
+    width: 38.96%;
+    height: 42.31%;
+    left: 30.52%;
+    top: 37.22%;
+
+    background: #29A8DF;
+    border-radius: 15.00px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 6.99ch;
+    /* line-height: 8.06%; */
+    text-align: center;
+
+    color: #FFFFFF;
+
+    image-orientation: from-image;
+}
+
+/* Invalid Username or Password ! */
+.message {
+    position: absolute;
+    width: 34.48%;
+    height: 31.48%;
+    left: 32.76%;
+    top: 42.69%;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 6.99%;
+    line-height: 8.06%;
+
+    color: #FFFFFF;
+}

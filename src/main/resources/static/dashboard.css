@@ -1,0 +1,100 @@
+/* Slide 16:9 - 5 */
+
+body {
+    width: 100.00%;
+    height: 100.00%;
+
+    background: #8FBF81;
+}
+
+/* Rectangle 39 */
+.header {
+    position: absolute;
+    width: 100.00%;
+    height: 18.61%;
+    left: 0.00%;
+    top: 0.00%;
+
+    background: #827070;
+}
+
+/* Rectangle 40 */
+.title {
+    position: absolute;
+    width: 32.81%;
+    height: 11.57%;
+    left: 33.59%;
+    top: 3.52%;
+
+    background: #FDF400;
+    border-radius: 12.00px;
+    font-size: 8ch;
+    text-align: center;
+}
+
+/* Rectangle 41 */
+.dashboard {
+    position: absolute;
+    width: 23.65%;
+    height: 11.30%;
+    left: 2.24%;
+    top: 22.41%;
+
+    background: #493496;
+    border-radius: 12px;
+    font-size: 8ch;
+    text-align: center;
+}
+
+/* Rectangle 42 */
+.box1 {
+    position: absolute;
+    width: 24.58%;
+    height: 11.30%;
+    left: 37.71%;
+    top: 33.70%;
+
+    background: #00FFF2;
+    border-radius: 12px;
+    font-size: 7ch;
+    text-align: center;
+}
+
+/* Rectangle 43 */
+.box2 {
+    position: absolute;
+    width: 24.58%;
+    height: 11.30%;
+    left: 37.71%;
+    top: 51.94%;
+
+    background: #00FFF2;
+    border-radius: 12px;
+    font-size: 7ch;
+    text-align: center;
+}
+
+/* Rectangle 44 */
+.box3 {
+    position: absolute;
+    width: 24.58%;
+    height: 11.30%;
+    left: 37.71%;
+    top: 70.19%;
+
+    background: #00FFF2;
+    border-radius: 12px;
+    font-size: 7ch;
+    text-align: center;
+}
+
+/* file_00000000efa07206ab6dfd2c37f967b4 7 */
+.logo {
+    position: absolute;
+    width: 30.00%;
+    height: 35.56%;
+    left: -1.82%;
+    top: -5.56%;
+
+    /* background: url(file_00000000efa07206ab6dfd2c37f967b4.png); */
+}

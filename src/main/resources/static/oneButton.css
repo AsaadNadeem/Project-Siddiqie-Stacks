@@ -1,0 +1,72 @@
+/* Slide 16:9 - 4 */
+body {
+    width: 100.00%;
+    height: 100.00%;
+
+    background: #A2D2DF;
+}
+
+/* Rectangle 35 */
+.header {
+    position: absolute;
+    width: 100%;
+    height: 19.72%;
+    left: 0.00%;
+    top: 0.00%;
+
+    background: #997B7B;
+}
+
+/* Rectangle 36 */
+.bigBox {
+    position: absolute;
+    width: 50.94%;
+    height: 57.87%;
+    left: 24.43%;
+    top: 22.96%;
+
+    background: #FF0004;
+    opacity: 0.72;
+    border-radius: 12.00px;
+    font-size: 8ch;
+    text-align: center;
+}
+
+/* Rectangle 37 */
+.button {
+    position: absolute;
+    width: 16.72%;
+    height: 10.83%;
+    left: 41.51%;
+    top: 84.17%;
+
+    background: #0004FF;
+    opacity: 0.78;
+    border-radius: 3.00ch;
+    font-size: 5ch;
+}
+
+/* Rectangle 38 */
+.title {
+    position: absolute;
+    width: 28.91%;
+    height: 10.46%;
+    left: 35.52%;
+    top: 4.63%;
+
+    background: #FDF400;
+    border-radius: 12.00ch;
+    font-size: 6.99ch;
+    text-align: center;
+}
+
+/* file_00000000efa07206ab6dfd2c37f967b4 6 */
+.logo {
+    position: absolute;
+    width: 26.04%;
+    height: 30.83%;
+    left: 0.00%;
+    top: -3.52%;
+
+    /* background: url(file_00000000efa07206ab6dfd2c37f967b4.png); */
+}
